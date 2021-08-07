@@ -25,6 +25,8 @@
 
 - Este script envia UM ARQUIVO direto, não uma pasta contendo o arquivo.
 
+- Talvez precise ser adaptado para o seu computador, então faça o teste e modifique oque achar necessario.
+
 ### TEMPO DE CRIAÇÃO
 - Levei cerca de 30/40 minutos para concluir todo o script (contando com os testes que foram feitos para garantir que tudo funcionasse como deveria).
 
