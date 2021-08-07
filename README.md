@@ -14,7 +14,7 @@
 
 - Foi estabelecido um tempo de 1.5 segundos para preencher os campos de texto e 1.2 segundos para clicar em 'Entrar' e fazer o login.
 
-- Estabeleci mais alguns tempos de ação com 1.2 segundos para: Clicar em New, Inserir o nome do Arquivo, Clicar em criar, Clicar em 'Enviar arquivo existente'.
+- Estabeleci mais alguns tempos de ação com 1.2 segundos para: Clicar em New, Inserir o nome do Repositorio, Clicar em criar.'.
 
 - Após isso estabeleci um tempo de 1.5 segundos para mover o cursor do mouse até "choose files", 1.3 segundos para mover o cursor para uma área em branco e clicar. Logo após fiz uma sequência de 'tab' e 'down' para que pudesse chegar na área de trabalho, procurar pelo arquivo e fazer o envio do arquivo assim concluindo todo o script.
 
